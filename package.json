@@ -6,3 +6,5 @@
   "dependencies": {},
   "keywords": []
 }
+
+var fans = document.querySelector(".fans");
